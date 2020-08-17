@@ -1,0 +1,61 @@
+Final project:
+
+I Choose what you'll want to do
+
+Take into account:
+1. Dataset
+2. Complexidade do código
+3. Tempo de treino
+
+MVP : minimum viable product
+
+Use case
+
+Find a Tutorial
+
+Machine Translation
+Actas da UE - traduzidas em várias línguas
+
+
+Tokenization
+Lemmatization
+POS Tags
+
+
+Topic identification
+
+
+Text summarisation
+
+Text generation
+Chat bot
+Speech bot
+
+
+Speech-to-text
+
+
+Procurar: projectos NLP na net
+Machine Translation, Text Generation
+
+
+Speech transcription?
+You feed a recording and provides transcription in that language and 
+Translation into several languages
+We already have a library that does transcription (speech2text)
+
+
+II Narrow down options and find data
+
+
+I've narrowed down my options to either:
+
+1. chatbot (with speech component)
+For customer support
+2. Machine translation
+
+Finding data is difficult and takes time
+
+
+
+
