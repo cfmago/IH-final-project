@@ -1,0 +1,28 @@
+/* This is a single-line comment */
+
+body {
+  background-color: #2C395E;
+}
+
+img {
+  width:100%;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 10%;
+}
+
+.form {
+  margin: left;
+}
+
+div {
+  padding: 5%;
+}
+
+button.btn.btn-secondary {
+margin-top: 2%;
+margin: left;
+}
+
